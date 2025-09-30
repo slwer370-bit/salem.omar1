@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\bin\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.exe.config
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\bin\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\bin\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\bin\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.xml
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع_رسائل_الادخال_و_الاخراج_سالم_عمر.Form1.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع_رسائل_الادخال_و_الاخراج_سالم_عمر.Resources.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.vbproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.xml
+C:\Users\DELL\documents\visual studio 2015\Projects\مشروع رسائل الادخال و الاخراج سالم عمر\مشروع رسائل الادخال و الاخراج سالم عمر\obj\Debug\مشروع رسائل الادخال و الاخراج سالم عمر.pdb
